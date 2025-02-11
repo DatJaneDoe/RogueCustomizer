@@ -240,10 +240,6 @@ namespace RogueCustomizer
                                 item.map = tileData.map;
 
 
-
-
-
-
                                 break;
                             }
 
@@ -301,8 +297,8 @@ namespace RogueCustomizer
                 
                 if (ForgivingLives)
                 {
-                    InGame.instance.RogueSaveData.maxLives = 500;
-                    InGame.instance.RogueSaveData.lives = 500;
+                    InGame.instance.RogueSaveData.maxLives = 5;
+                    InGame.instance.RogueSaveData.lives = 5;
                 }
                 if (LotsOfChoices)
                 {
