@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\RogueCustomizer.dll
+C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\RogueCustomizer.pdb
+C:\Users\naoki\Desktop\repos2\AllTack\obj\Debug\SettingsFile.csproj.AssemblyReference.cache
+C:\Users\naoki\Desktop\repos2\AllTack\obj\Debug\SettingsFile.csproj.CoreCompileInputs.cache
+C:\Users\naoki\Desktop\repos2\AllTack\obj\Debug\Settings.1B1D788D.Up2Date
+C:\Users\naoki\Desktop\repos2\AllTack\obj\Debug\RogueCustomizer.dll
+C:\Users\naoki\Desktop\repos2\AllTack\obj\Debug\RogueCustomizer.pdb
